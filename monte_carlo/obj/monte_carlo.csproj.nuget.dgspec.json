@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\tversu\\Monte_Carlo\\monte_carlo\\monte_carlo.csproj": {}
+    "C:\\tversu\\Monte Carlo\\monte_carlo\\monte_carlo.csproj": {}
   },
   "projects": {
-    "C:\\tversu\\Monte_Carlo\\monte_carlo\\monte_carlo.csproj": {
+    "C:\\tversu\\Monte Carlo\\monte_carlo\\monte_carlo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\tversu\\Monte_Carlo\\monte_carlo\\monte_carlo.csproj",
+        "projectUniqueName": "C:\\tversu\\Monte Carlo\\monte_carlo\\monte_carlo.csproj",
         "projectName": "monte_carlo",
-        "projectPath": "C:\\tversu\\Monte_Carlo\\monte_carlo\\monte_carlo.csproj",
-        "packagesPath": "C:\\Users\\Дмитрий Алешин\\.nuget\\packages\\",
-        "outputPath": "C:\\tversu\\Monte_Carlo\\monte_carlo\\obj\\",
+        "projectPath": "C:\\tversu\\Monte Carlo\\monte_carlo\\monte_carlo.csproj",
+        "packagesPath": "C:\\Users\\Дмитрий\\.nuget\\packages\\",
+        "outputPath": "C:\\tversu\\Monte Carlo\\monte_carlo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Дмитрий Алешин\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Дмитрий\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
